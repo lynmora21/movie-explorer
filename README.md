@@ -1,6 +1,8 @@
 # 🎬 Movie Explorer
 
-Movie Explorer is a React application that allows users to search for movies and view detailed information about them using the [[OMDb API](https://www.omdbapi.com/)](https://www.omdbapi.com/).
+**Live Demo:** [Movie Explorer](https://movie-explorer-henna-pi.vercel.app/)
+
+Movie Explorer is a React application that allows users to search for movies and view detailed information about them using the [OMDb API](https://www.omdbapi.com/).
 
 The application was built as a React project to practice working with APIs, state management, components, conditional rendering, and responsive CSS.
 
